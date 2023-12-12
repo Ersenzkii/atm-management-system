@@ -1,0 +1,10 @@
+0 0 Ersen 0 10/10/2012 Africa 291321234 22432.52 savings
+
+1 1 Ersen 2 2/5/2001 Portugal 123543455 10023.23 fixed01
+
+2 1 Ersen 123 10/10/2020 UK 1234123 12345.30 savings
+
+3 2 Ersen 123455 12/12/2023 Thailand 2930203 4567.00 savings
+
+4 2 Ersen 123444 12/12/2023 France 345678 468.00 savings
+
